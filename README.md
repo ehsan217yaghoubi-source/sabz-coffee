@@ -1,3 +1,30 @@
+<h1 align="center">Sabz Cafe Website☕</h1>
+
+### 🏠 Home Hero Section
+<img src="https://github.com/EhsanYaghoobi/sabz-cafe/blob/08fff3b61a369e93bd85710f326764bb8bbb1c09/public/screenshots/hero.gif">
+
+### 👥 About Us Section
+<img src="https://github.com/EhsanYaghoobi/sabz-cafe/blob/08fff3b61a369e93bd85710f326764bb8bbb1c09/public/screenshots/About-us.png">
+
+### 🛎️ Services Section
+<img src="https://github.com/EhsanYaghoobi/sabz-cafe/blob/08fff3b61a369e93bd85710f326764bb8bbb1c09/public/screenshots/Services.png">
+
+### 💯 Offer Section
+<img src="https://github.com/EhsanYaghoobi/sabz-cafe/blob/08fff3b61a369e93bd85710f326764bb8bbb1c09/public/screenshots/Offer.png">
+
+### 📖 Menu & Pricing Section
+<img src="https://github.com/EhsanYaghoobi/sabz-cafe/blob/08fff3b61a369e93bd85710f326764bb8bbb1c09/public/screenshots/Pricing.png">
+
+### 📅 Reservation Section
+<img src="https://github.com/EhsanYaghoobi/sabz-cafe/blob/08fff3b61a369e93bd85710f326764bb8bbb1c09/public/screenshots/Reservation.png">
+
+### 📞 Contact Us Section
+<img src="https://github.com/EhsanYaghoobi/sabz-cafe/blob/08fff3b61a369e93bd85710f326764bb8bbb1c09/public/screenshots/Contact-us.png">
+
+
+
+
+---
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
